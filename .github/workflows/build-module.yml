@@ -12,7 +12,7 @@ jobs:
     strategy:
       matrix:
         build_env:
-          - commit: "ebe7c5f1a3"
+          - commit: "ebe7c5f1a3bc4cdf0e2fbc1f1692773df81b848b"
             tag: "24.10.0-rc1"
             pkgarch: "aarch64_cortex-a53"
             target: mediatek
